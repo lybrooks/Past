@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">tN_dvWkXKQxaUSv2sstiN6GpzKSea5fe1ca0-13e9-409f-941d-f964353f11e1</string>
     <string name="app_name">Past</string>
 </resources>
